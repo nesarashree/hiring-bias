@@ -1,2 +1,5 @@
-## Instructions
-To run the demo, open the .py file in VS Code and run (in the local terminal): streamlit run [path to the program]
+## Running the Demo
+To run the streamlit demo, open the `.py` file in VS Code and execute the following command in the terminal:
+
+```bash
+streamlit run path/to/your_program.py
